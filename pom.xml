@@ -19,7 +19,7 @@
         <lombok.version>1.18.8</lombok.version>
         <json-lib.version>2.4</json-lib.version>
         <spring-boot.version>2.2.4.RELEASE</spring-boot.version>
-        <junit.version>4.13</junit.version>
+        <junit.version>4.13.1</junit.version>
     </properties>
 
     <!--通用依赖项-->
